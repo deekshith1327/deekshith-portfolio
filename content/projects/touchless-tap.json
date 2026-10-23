@@ -1,0 +1,14 @@
+{
+  "id": "touchless-tap",
+  "title": "Touchless Water Tap",
+  "summary": "Touch-free water dispensing using sensor-based control and an LM358 operational amplifier.",
+  "role": "Sensors · operational amplifiers · electronic switching",
+  "year": "2025",
+  "category": "Automation",
+  "tags": ["LM358", "Automation", "Circuit design"],
+  "cover": "/touchless-tap.png",
+  "gallery": [],
+  "links": { "live": "", "github": "" },
+  "caseStudy": "A simple automation concept exploring hygiene, convenience, and efficient water usage.",
+  "featured": false
+}

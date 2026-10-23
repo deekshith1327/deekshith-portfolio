@@ -1,0 +1,14 @@
+{
+  "id": "sensor-prototypes",
+  "title": "Sensor-Based Electronics Prototypes",
+  "summary": "A collection of practical experiments with sensors, breadboards, and basic electronic circuits.",
+  "role": "Sensors · circuit construction · troubleshooting",
+  "year": "Ongoing",
+  "category": "Hardware",
+  "tags": ["Breadboards", "Signals", "Testing"],
+  "cover": "/sensor-prototypes.png",
+  "gallery": [],
+  "links": { "live": "", "github": "" },
+  "caseStudy": "Experiments focused on connecting components, observing signals, and building practical circuit intuition.",
+  "featured": false
+}

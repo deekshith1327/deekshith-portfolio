@@ -1,0 +1,14 @@
+{
+  "id": "line-follower",
+  "title": "Line Follower Robot",
+  "summary": "A robotics project designed to follow a predefined path using sensors and electronic control.",
+  "role": "Sensor integration · motor control · circuit prototyping",
+  "year": "2025",
+  "category": "Robotics",
+  "tags": ["Sensors", "Motor control", "Prototyping"],
+  "cover": "/line-follower-robot.png",
+  "gallery": [],
+  "links": { "live": "", "github": "" },
+  "caseStudy": "Built to understand how sensors and control logic work together in an autonomous robotic system.",
+  "featured": true
+}

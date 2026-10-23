@@ -1,0 +1,14 @@
+{
+  "id": "esp32-car",
+  "title": "ESP32 Obstacle-Avoiding Car",
+  "summary": "A mobile robotic system that detects obstacles and responds to its surroundings with ESP32-based control.",
+  "role": "ESP32 · sensor interfacing · embedded programming",
+  "year": "2025",
+  "category": "Embedded",
+  "tags": ["ESP32", "Sensors", "Navigation"],
+  "cover": "/esp32-car.png",
+  "gallery": [],
+  "links": { "live": "", "github": "" },
+  "caseStudy": "A hands-on exploration of autonomous navigation and intelligent hardware behaviour.",
+  "featured": true
+}

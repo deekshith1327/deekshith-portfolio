@@ -1,0 +1,4 @@
+import { motion } from 'framer-motion'
+import type { Project } from '../types'
+import { useTilt } from '../hooks/useTilt'
+export function ProjectCard({project,onOpen,dimmed}:{project:Project,onOpen:()=>void,dimmed:boolean}){const tilt=useTilt(7);return <motion.article layoutId={`project-${project.id}`} layout="position" {...tilt} className={`project-card tilt-card ${dimmed?'is-dimmed':''}`} data-cursor="View" onClick={onOpen}><div className="card-glare"/><motion.img layoutId={`project-image-${project.id}`} src={project.cover} alt={`Concept visual for ${project.title}`} loading="lazy"/><div className="card-overlay"/><div className="card-meta depth-low"><span>{project.category}</span><span>{project.year}</span></div><div className="card-copy depth-high"><h3>{project.title}</h3><p>{project.summary}</p><div>{project.tags.map(tag=><span className="chip" key={tag}>{tag}</span>)}</div></div></motion.article>}

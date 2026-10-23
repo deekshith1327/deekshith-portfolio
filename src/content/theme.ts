@@ -1,0 +1,2 @@
+export const themeTokens = { fonts:{sans:'Inter, ui-sans-serif, system-ui, sans-serif'}, radii:{card:28,pill:999}, motion:{enabled:true, speed:1, enable3D:true, enableCursor:true}, variants:['neon','light','pastel'] as const, gradients:{neon:'blue → red',light:'blue → coral',pastel:'orange → rose'} } as const
+export type ThemeName = typeof themeTokens.variants[number]
