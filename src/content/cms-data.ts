@@ -8,6 +8,7 @@ const skillFiles = import.meta.glob('../../content/skills/*.json', { eager: true
 const educationFiles = import.meta.glob('../../content/education/*.json', { eager: true, import: 'default' })
 const achievementFiles = import.meta.glob('../../content/achievements/*.json', { eager: true, import: 'default' })
 const profileFiles = import.meta.glob('../../content/profile.json', { eager: true, import: 'default' })
+const themeFiles = import.meta.glob('../../content/theme.json', { eager: true, import: 'default' })
 
 const values = <T>(files: Record<string, unknown>) => Object.values(files) as T[]
 const paragraphs = (value: string | string[] | undefined) => Array.isArray(value) ? value : (value || '').split(/\n\s*\n/).filter(Boolean)
@@ -25,3 +26,4 @@ export const cmsSkills = values<Skill | Skill[] | { skills: Skill[] }>(skillFile
 export const cmsEducation = values<TimelineRecord>(educationFiles)
 export const cmsAchievements = values<TimelineRecord>(achievementFiles)
 export const cmsProfile = values<Partial<Profile>>(profileFiles)[0]
+export const cmsTheme = values<Record<string, unknown>>(themeFiles)[0] || {}

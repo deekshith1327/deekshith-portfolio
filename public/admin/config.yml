@@ -101,3 +101,38 @@ collections:
                 options: ["Foundation", "Learning", "Growing"]
               - { label: "Icon", name: "icon", widget: "string", hint: "A short symbol or emoji" }
               - { label: "Related project IDs", name: "relatedProjects", widget: "list", required: false, field: { label: "Project ID", name: "project", widget: "string" } }
+      - name: "theme"
+        label: "Site Settings"
+        file: "content/theme.json"
+        fields:
+          - label: "Default colour theme"
+            name: "defaultVariant"
+            widget: "select"
+            options: ["neon", "light", "pastel"]
+          - label: "Custom colours (optional)"
+            name: "colors"
+            widget: "object"
+            hint: "Leave blank to use the selected theme defaults. Use CSS colours such as #58b8ff."
+            fields:
+              - { label: "Accent", name: "accent", widget: "string", required: false }
+              - { label: "Secondary accent", name: "accent2", widget: "string", required: false }
+              - { label: "Background", name: "background", widget: "string", required: false }
+              - { label: "Text", name: "text", widget: "string", required: false }
+              - { label: "Muted text", name: "muted", widget: "string", required: false }
+              - { label: "Panel", name: "panel", widget: "string", required: false }
+              - { label: "Border", name: "line", widget: "string", required: false }
+          - label: "Motion and 3D"
+            name: "motion"
+            widget: "object"
+            fields:
+              - { label: "Enable animations", name: "enabled", widget: "boolean", default: true }
+              - { label: "Animation speed", name: "speed", widget: "number", default: 1, value_type: "float", min: 0.25, max: 2 }
+              - { label: "Enable 3D hero", name: "enable3D", widget: "boolean", default: true }
+              - { label: "Enable custom cursor", name: "enableCursor", widget: "boolean", default: true }
+          - label: "Navigation sections"
+            name: "sections"
+            widget: "list"
+            fields:
+              - { label: "Section ID", name: "id", widget: "string", hint: "Keep IDs as about, skills, projects, journey, or contact." }
+              - { label: "Navigation label", name: "label", widget: "string" }
+              - { label: "Show section", name: "visible", widget: "boolean", default: true }

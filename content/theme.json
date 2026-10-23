@@ -1,0 +1,25 @@
+{
+  "defaultVariant": "neon",
+  "colors": {
+    "accent": "",
+    "accent2": "",
+    "background": "",
+    "text": "",
+    "muted": "",
+    "panel": "",
+    "line": ""
+  },
+  "motion": {
+    "enabled": true,
+    "speed": 1,
+    "enable3D": true,
+    "enableCursor": true
+  },
+  "sections": [
+    { "id": "about", "label": "About", "visible": true },
+    { "id": "skills", "label": "Skills", "visible": true },
+    { "id": "projects", "label": "Projects", "visible": true },
+    { "id": "journey", "label": "Journey", "visible": true },
+    { "id": "contact", "label": "Contact", "visible": true }
+  ]
+}
