@@ -6,7 +6,7 @@
   "year": "—",
   "category": "Web Apps",
   "tags": ["HTML", "CSS", "JavaScript", "Habit Tracking", "Local Storage"],
-  "cover": "/project-habit-garden.svg",
+  "cover": "/project-habit-garden.png",
   "gallery": [],
   "links": { "live": "", "github": "" },
   "caseStudy": "Developed a habit-tracking application that helps users build routines, complete daily habits, monitor progress, and retain data locally. Designed a calm, responsive experience for desktop and mobile.",

@@ -6,7 +6,7 @@
   "year": "—",
   "category": "Web Apps",
   "tags": ["Web Development", "PDF", "Summarization"],
-  "cover": "/project-pdf-summary.svg",
+  "cover": "/project-pdf-summary.png",
   "gallery": [],
   "links": { "live": "", "github": "" },
   "caseStudy": "Created a web application that generates PDF summaries from text, documents, and URLs.",

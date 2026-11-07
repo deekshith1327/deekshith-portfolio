@@ -6,7 +6,7 @@
   "year": "—",
   "category": "Web Apps",
   "tags": ["HTML", "CSS", "JavaScript", "Recipes", "Cooking"],
-  "cover": "/project-gather-meal-map.svg",
+  "cover": "/project-gather-meal-map.png",
   "gallery": [],
   "links": { "live": "", "github": "" },
   "caseStudy": "Created a meal-discovery and cooking companion with dietary and cuisine filters, pantry-based suggestions, recipe saving, shopping lists, ingredient scaling, timers, and step-by-step cooking guidance.",

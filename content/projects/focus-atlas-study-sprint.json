@@ -6,7 +6,7 @@
   "year": "—",
   "category": "Web Apps",
   "tags": ["HTML", "CSS", "JavaScript", "Pomodoro", "Local Storage"],
-  "cover": "/project-focus-atlas.svg",
+  "cover": "/project-focus-atlas.png",
   "gallery": [],
   "links": { "live": "", "github": "" },
   "caseStudy": "Built a responsive study productivity app with configurable Pomodoro timers, pause/reset controls, and goal tracking. Persisted study goals in browser storage for a seamless experience across sessions.",

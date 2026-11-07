@@ -6,7 +6,7 @@
   "year": "—",
   "category": "Web Apps",
   "tags": ["HTML", "CSS", "JavaScript", "Planning", "Progress Tracking"],
-  "cover": "/project-daylight-planner.svg",
+  "cover": "/project-daylight-planner.png",
   "gallery": [],
   "links": { "live": "", "github": "" },
   "caseStudy": "Built a daily planning workspace for managing priorities, marking tasks complete, and visualizing progress with a live completion count and progress ring.",
