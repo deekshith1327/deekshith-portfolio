@@ -1,0 +1,14 @@
+{
+  "id": "pocket-ledger",
+  "title": "Pocket Ledger",
+  "summary": "A personal finance tracker for recording income and expenses, viewing transaction history and totals, and filtering by transaction type, with browser-based data persistence.",
+  "role": "Web development",
+  "year": "—",
+  "category": "Web Apps",
+  "tags": ["HTML", "CSS", "JavaScript", "Finance", "Local Storage"],
+  "cover": "/project-web-app.svg",
+  "gallery": [],
+  "links": { "live": "", "github": "" },
+  "caseStudy": "Developed a personal finance tracker that records income and expenses, displays transaction history and totals, and supports filtering by transaction type. Designed a responsive interface with browser-based data persistence.",
+  "featured": false
+}

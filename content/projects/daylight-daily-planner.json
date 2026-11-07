@@ -1,0 +1,14 @@
+{
+  "id": "daylight-daily-planner",
+  "title": "Daylight — Daily Planner",
+  "summary": "A daily planning workspace for managing priorities, marking tasks complete, and visualizing progress with a live completion count and progress ring.",
+  "role": "Web development",
+  "year": "—",
+  "category": "Web Apps",
+  "tags": ["HTML", "CSS", "JavaScript", "Planning", "Progress Tracking"],
+  "cover": "/project-web-app.svg",
+  "gallery": [],
+  "links": { "live": "", "github": "" },
+  "caseStudy": "Built a daily planning workspace for managing priorities, marking tasks complete, and visualizing progress with a live completion count and progress ring.",
+  "featured": false
+}

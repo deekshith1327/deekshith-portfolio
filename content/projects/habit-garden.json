@@ -1,0 +1,14 @@
+{
+  "id": "habit-garden",
+  "title": "Habit Garden",
+  "summary": "A calm, responsive habit tracker for building routines, completing daily habits, monitoring progress, and retaining data locally across desktop and mobile.",
+  "role": "Web development",
+  "year": "—",
+  "category": "Web Apps",
+  "tags": ["HTML", "CSS", "JavaScript", "Habit Tracking", "Local Storage"],
+  "cover": "/project-web-app.svg",
+  "gallery": [],
+  "links": { "live": "", "github": "" },
+  "caseStudy": "Developed a habit-tracking application that helps users build routines, complete daily habits, monitor progress, and retain data locally. Designed a calm, responsive experience for desktop and mobile.",
+  "featured": false
+}

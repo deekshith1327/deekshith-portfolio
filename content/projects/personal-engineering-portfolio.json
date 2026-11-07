@@ -1,0 +1,14 @@
+{
+  "id": "personal-engineering-portfolio",
+  "title": "Personal Engineering Portfolio",
+  "summary": "An editable engineering portfolio website with project filtering, case-study views, configurable skills, responsive layouts, and Netlify/Decap CMS content management support.",
+  "role": "Portfolio development",
+  "year": "—",
+  "category": "Web Apps",
+  "tags": ["React", "TypeScript", "Vite", "Netlify CMS", "Responsive Design"],
+  "cover": "/project-web-app.svg",
+  "gallery": [],
+  "links": { "live": "", "github": "" },
+  "caseStudy": "Built an editable engineering portfolio website with project filtering, case-study views, configurable skills, responsive layouts, and content management support through Netlify/Decap CMS.",
+  "featured": false
+}

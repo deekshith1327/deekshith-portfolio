@@ -1,0 +1,14 @@
+{
+  "id": "focus-atlas-study-sprint",
+  "title": "Focus Atlas — Study Sprint",
+  "summary": "A responsive study productivity app with configurable Pomodoro timers, pause and reset controls, and goal tracking. Study goals persist in browser storage across sessions.",
+  "role": "Web development",
+  "year": "—",
+  "category": "Web Apps",
+  "tags": ["HTML", "CSS", "JavaScript", "Pomodoro", "Local Storage"],
+  "cover": "/project-web-app.svg",
+  "gallery": [],
+  "links": { "live": "", "github": "" },
+  "caseStudy": "Built a responsive study productivity app with configurable Pomodoro timers, pause/reset controls, and goal tracking. Persisted study goals in browser storage for a seamless experience across sessions.",
+  "featured": false
+}

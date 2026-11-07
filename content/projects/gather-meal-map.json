@@ -1,0 +1,14 @@
+{
+  "id": "gather-meal-map",
+  "title": "Gather — Meal Map",
+  "summary": "A meal discovery and cooking companion with dietary and cuisine filters, pantry suggestions, recipe saving, shopping lists, ingredient scaling, timers, and step-by-step guidance.",
+  "role": "Web development",
+  "year": "—",
+  "category": "Web Apps",
+  "tags": ["HTML", "CSS", "JavaScript", "Recipes", "Cooking"],
+  "cover": "/project-web-app.svg",
+  "gallery": [],
+  "links": { "live": "", "github": "" },
+  "caseStudy": "Created a meal-discovery and cooking companion with dietary and cuisine filters, pantry-based suggestions, recipe saving, shopping lists, ingredient scaling, timers, and step-by-step cooking guidance.",
+  "featured": false
+}

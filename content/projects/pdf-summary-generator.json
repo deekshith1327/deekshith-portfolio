@@ -1,0 +1,14 @@
+{
+  "id": "pdf-summary-generator",
+  "title": "PDF Summary Generator",
+  "summary": "A web application that generates PDF summaries from text, documents, and URLs.",
+  "role": "Web development",
+  "year": "—",
+  "category": "Web Apps",
+  "tags": ["Web Development", "PDF", "Summarization"],
+  "cover": "/project-web-app.svg",
+  "gallery": [],
+  "links": { "live": "", "github": "" },
+  "caseStudy": "Created a web application that generates PDF summaries from text, documents, and URLs.",
+  "featured": false
+}

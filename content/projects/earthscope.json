@@ -1,0 +1,14 @@
+{
+  "id": "earthscope",
+  "title": "Earthscope — Planetary Monitoring Dashboard",
+  "summary": "An interactive Earth-monitoring dashboard visualizing live earthquake, aircraft, and satellite data, with fallback handling for unavailable public data services.",
+  "role": "Dashboard development",
+  "year": "—",
+  "category": "Data Visualization",
+  "tags": ["TypeScript", "Vite", "CesiumJS", "USGS", "OpenSky", "CelesTrak"],
+  "cover": "/project-earthscope.svg",
+  "gallery": [],
+  "links": { "live": "", "github": "" },
+  "caseStudy": "Developed an interactive Earth-monitoring dashboard that visualizes live earthquake, aircraft, and satellite data. Integrated public data sources including USGS, OpenSky, and CelesTrak, with fallback handling for unavailable services.",
+  "featured": true
+}
