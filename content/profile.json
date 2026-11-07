@@ -7,5 +7,10 @@
   "bio": "I am an Electronics and Communication Engineering student at APJ Abdul Kalam Technological University, Kerala. I enjoy turning theoretical concepts into practical applications—experimenting with sensors, breadboards, microcontrollers, and ideas that solve real-world problems.",
   "philosophy": "Learn the fundamentals. Build with purpose. Improve through every failure.",
   "photo": "",
-  "socials": { "email": "", "github": "", "linkedin": "", "resume": "" }
+  "socials": {
+    "email": "puthucherydeekshith@gmail.com",
+    "github": "https://github.com/deekshith1327",
+    "linkedin": "https://www.linkedin.com/in/deekshith-p-b079a8383",
+    "resume": ""
+  }
 }
