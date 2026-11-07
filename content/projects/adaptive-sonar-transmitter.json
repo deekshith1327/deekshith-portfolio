@@ -6,7 +6,7 @@
   "year": "—",
   "category": "Embedded Systems",
   "tags": ["C++", "ESP32", "AD9850 DDS", "Sensors", "Sonar"],
-  "cover": "/project-sonar.svg",
+  "cover": "/project-adaptive-sonar-transmitter.png",
   "gallery": [],
   "links": { "live": "", "github": "" },
   "caseStudy": "Built ESP32 firmware for an adaptive underwater sonar transmitter. Used turbidity, depth, and salinity inputs to dynamically adjust frequency sweeps, pulse duration, amplitude, and transmission mode in real time.",
